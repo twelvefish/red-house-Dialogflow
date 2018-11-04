@@ -1,0 +1,85 @@
+{
+  "id": "ad1ab3ec-1965-4859-b4fd-3daf38b75a5b",
+  "name": "GOOD",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": "玟欣\n\n1、工作認真，智能紅樓，如期完工，具備雛型，值得肯定 !\n􀄃􀄳ok􏿿 􀄃􀄳ok􏿿"
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "sticker",
+              "packageId": "1",
+              "stickerId": "13"
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": "2、下列事項請於2月13日前，完成修訂"
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "template",
+              "altText": "玟欣加油",
+              "template": {
+                "type": "image_carousel",
+                "columns": [
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/01.jpg",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/02.jpg",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/03.jpg",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": "3、謝謝妳的貢獻，請繼續規劃\n\u003c\u003c圖書館整建歷程\u003e\u003e智能導覽\n\n4、玟欣加油，校史團隊加油 !\n􀄃􀉜arm􏿿 􀄃􀉜arm􏿿"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 0,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1517308480,
+  "fallbackIntent": false,
+  "events": []
+}

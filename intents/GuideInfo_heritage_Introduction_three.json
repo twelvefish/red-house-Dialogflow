@@ -1,0 +1,40 @@
+{
+  "id": "5acff42e-68c4-416b-bffd-5027c798e78f",
+  "name": "GuideInfo_heritage_Introduction_three",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GuideInfo_heritage_Introduction_three",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "image",
+              "originalContentUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E6%96%87%E7%89%A9%E4%BB%8B%E7%B4%B9/%E6%96%87%E7%89%A9%E4%BB%8B%E7%B4%B9-2.jpg",
+              "previewImageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E6%96%87%E7%89%A9%E4%BB%8B%E7%B4%B9/%E6%96%87%E7%89%A9%E4%BB%8B%E7%B4%B9-2.jpg"
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519098682,
+  "fallbackIntent": false,
+  "events": []
+}

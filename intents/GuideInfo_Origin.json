@@ -1,0 +1,65 @@
+{
+  "id": "73618101-a4a8-4083-8a7d-48e616006997",
+  "name": "GuideInfo_Origin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GuideInfo_Origin",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "template",
+              "altText": "紅樓源起",
+              "template": {
+                "type": "image_carousel",
+                "columns": [
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E7%B4%85%E6%A8%93%E6%BA%90%E8%B5%B7/%E7%B4%85%E6%A8%93%E8%B5%B7%E6%BA%9001.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E7%B4%85%E6%A8%93%E6%BA%90%E8%B5%B7/%E7%B4%85%E6%A8%93%E8%B5%B7%E6%BA%9002.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E7%B4%85%E6%A8%93%E6%BA%90%E8%B5%B7/%E7%B4%85%E6%A8%93%E8%B5%B7%E6%BA%9003.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520928325,
+  "fallbackIntent": false,
+  "events": []
+}

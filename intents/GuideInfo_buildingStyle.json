@@ -1,0 +1,100 @@
+{
+  "id": "c239d64d-7604-4c92-ab42-0e6b988f1069",
+  "name": "GuideInfo_buildingStyle",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GuideInfo_buildingStyle",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "template",
+              "altText": "建築特色",
+              "template": {
+                "type": "image_carousel",
+                "columns": [
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B2/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B201.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B2/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B202.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B2/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B203.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B2/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B204.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B2/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B205.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B2/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B206.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B2/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B207.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B2/%E5%BB%BA%E7%AF%89%E7%89%B9%E8%89%B208.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519184951,
+  "fallbackIntent": false,
+  "events": []
+}

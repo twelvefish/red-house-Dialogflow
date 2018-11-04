@@ -1,0 +1,40 @@
+{
+  "id": "c6eacb61-95c3-41f8-b02f-f8eb31ada17e",
+  "name": "GuideInfo_history_One",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "video",
+              "originalContentUrl": "https://firebasestorage.googleapis.com/v0/b/redhouse-39b68.appspot.com/o/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%BD%B1%E7%89%87%2F%E7%B4%85%E6%A8%93%E6%AD%B7%E5%8F%B2.mp4?alt\u003dmedia\u0026token\u003ddd28374f-7cc1-4897-8517-fa33da212fcf",
+              "previewImageUrl": "https://firebasestorage.googleapis.com/v0/b/redhouse-39b68.appspot.com/o/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%BD%B1%E7%89%87%2F01%E6%AD%B7%E5%8F%B2.PNG?alt\u003dmedia\u0026token\u003d0e9ff78c-d1f3-421f-a36a-c7d99ee48b56"
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520927735,
+  "fallbackIntent": false,
+  "events": []
+}

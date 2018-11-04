@@ -1,0 +1,84 @@
+{
+  "id": "045fa795-8076-44d2-8b45-ad441a85257b",
+  "name": "GuideInfo_repair_overview_video",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GuideInfo_repair_overview_video",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "video",
+              "originalContentUrl": "https://firebasestorage.googleapis.com/v0/b/redhouse-39b68.appspot.com/o/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%BD%B1%E7%89%87%2F%E7%B4%85%E6%A8%93%E4%BF%AE%E5%BE%A9_20180212%20(online-video-cutter.com).mp4?alt\u003dmedia\u0026token\u003da940f81b-54a3-4bd1-88f1-66a7f586e2a4",
+              "previewImageUrl": "https://firebasestorage.googleapis.com/v0/b/redhouse-39b68.appspot.com/o/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%BD%B1%E7%89%87%2F%E6%93%B7%E5%8F%96.PNG?alt\u003dmedia\u0026token\u003d14baac3a-0e55-4620-ac5e-ad230ee5745f"
+            }
+          }
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "video",
+              "originalContentUrl": "https://firebasestorage.googleapis.com/v0/b/redhouse-39b68.appspot.com/o/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%BD%B1%E7%89%87%2F01.mp4?alt\u003dmedia\u0026token\u003dc294ff91-26d3-4141-8448-9c58fc6c0a22",
+              "previewImageUrl": "https://firebasestorage.googleapis.com/v0/b/redhouse-39b68.appspot.com/o/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%BD%B1%E7%89%87%2F%E5%BD%B1%E7%89%87%E7%B8%AE%E5%9C%9601.png?alt\u003dmedia\u0026token\u003dfeaf6577-7a4c-40a2-852d-f74789fcce6d"
+            }
+          }
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "video",
+              "originalContentUrl": "https://firebasestorage.googleapis.com/v0/b/redhouse-39b68.appspot.com/o/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%BD%B1%E7%89%87%2F02.mp4?alt\u003dmedia\u0026token\u003d19d5fe56-8af2-409e-a9ef-e32008286758",
+              "previewImageUrl": "https://firebasestorage.googleapis.com/v0/b/redhouse-39b68.appspot.com/o/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%BD%B1%E7%89%87%2F%E5%BD%B1%E7%89%87%E7%B8%AE%E5%9C%9602.png?alt\u003dmedia\u0026token\u003db755cef8-7fd6-49f2-8b7e-b8fc7db731e4"
+            }
+          }
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "video",
+              "originalContentUrl": "https://firebasestorage.googleapis.com/v0/b/redhouse-39b68.appspot.com/o/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%BD%B1%E7%89%87%2F03.mp4?alt\u003dmedia\u0026token\u003deae3ca59-41b5-4e11-b3a4-1a21bd422b0f",
+              "previewImageUrl": "https://firebasestorage.googleapis.com/v0/b/redhouse-39b68.appspot.com/o/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%BD%B1%E7%89%87%2F%E5%BD%B1%E7%89%87%E7%B8%AE%E5%9C%9603.png?alt\u003dmedia\u0026token\u003d1dd9a4ce-e1d2-44c1-b5b0-1fdda06529c6"
+            }
+          }
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "video",
+              "originalContentUrl": "https://firebasestorage.googleapis.com/v0/b/redhouse-39b68.appspot.com/o/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%BD%B1%E7%89%87%2F04.mp4?alt\u003dmedia\u0026token\u003ddd4f7d10-f6cb-4733-804b-112672a5f0c1",
+              "previewImageUrl": "https://firebasestorage.googleapis.com/v0/b/redhouse-39b68.appspot.com/o/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%BD%B1%E7%89%87%2F%E5%BD%B1%E7%89%87%E7%B8%AE%E5%9C%9604.png?alt\u003dmedia\u0026token\u003d7e92a2e1-4c91-425a-a4af-44fe84dbb61a"
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520935408,
+  "fallbackIntent": false,
+  "events": []
+}

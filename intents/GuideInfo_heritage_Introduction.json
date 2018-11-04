@@ -1,0 +1,76 @@
+{
+  "id": "08628f14-5eae-4826-9739-4b38349f99e7",
+  "name": "GuideInfo_heritage_Introduction",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GuideInfo_heritage_Introduction",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "imagemap",
+              "baseUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/tile",
+              "altText": "文物介紹",
+              "baseSize": {
+                "height": 520,
+                "width": 1040
+              },
+              "actions": [
+                {
+                  "type": "message",
+                  "text": "樓桁",
+                  "area": {
+                    "x": 0,
+                    "y": 267,
+                    "width": 332,
+                    "height": 253
+                  }
+                },
+                {
+                  "type": "message",
+                  "text": "舊磚",
+                  "area": {
+                    "x": 358,
+                    "y": 269,
+                    "width": 302,
+                    "height": 253
+                  }
+                },
+                {
+                  "type": "message",
+                  "text": "簷口瓦",
+                  "area": {
+                    "x": 705,
+                    "y": 269,
+                    "width": 332,
+                    "height": 253
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1516604085,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "0de9fcf6-3305-4f3e-9e1c-7c96528747fb",
+  "name": "GuideInfo_history_two",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c0e1c267-6624-4dc7-abf5-95ccff317577",
+          "required": false,
+          "dataType": "@second_class",
+          "name": "second_class",
+          "value": "$second_class",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "video",
+              "originalContentUrl": "https://firebasestorage.googleapis.com/v0/b/redhouse-39b68.appspot.com/o/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%BD%B1%E7%89%87%2F%E5%BB%BA%E7%AF%89%E6%A7%8B%E9%80%A0.mp4?alt\u003dmedia\u0026token\u003dca48bd50-d54e-474a-9c0b-7c2650aeea71",
+              "previewImageUrl": "https://firebasestorage.googleapis.com/v0/b/redhouse-39b68.appspot.com/o/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%BD%B1%E7%89%87%2F02%E5%BB%BA%E7%AF%89.PNG?alt\u003dmedia\u0026token\u003d10e2638d-27b5-4940-b5e2-13a022e92755"
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520927761,
+  "fallbackIntent": false,
+  "events": []
+}

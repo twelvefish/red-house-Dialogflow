@@ -1,0 +1,135 @@
+{
+  "id": "8d5a8dab-f6b7-4af5-9e8c-feff2c55b86b",
+  "name": "GuideInfo_history_three",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "template",
+              "altText": "歷史剪影",
+              "template": {
+                "type": "image_carousel",
+                "columns": [
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E7%B4%85%E6%A8%93%E6%AD%B7%E5%8F%B2/%E6%AD%B7%E5%8F%B2%E4%BB%8B%E7%B4%B9-1.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E7%B4%85%E6%A8%93%E6%AD%B7%E5%8F%B2/%E6%AD%B7%E5%8F%B2%E4%BB%8B%E7%B4%B9-2.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E7%B4%85%E6%A8%93%E6%AD%B7%E5%8F%B2/%E6%AD%B7%E5%8F%B2%E4%BB%8B%E7%B4%B9-3.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E7%B4%85%E6%A8%93%E6%AD%B7%E5%8F%B2/%E6%AD%B7%E5%8F%B2%E4%BB%8B%E7%B4%B9-4.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E7%B4%85%E6%A8%93%E6%AD%B7%E5%8F%B2/%E6%AD%B7%E5%8F%B2%E4%BB%8B%E7%B4%B905.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E7%B4%85%E6%A8%93%E6%AD%B7%E5%8F%B2/%E6%AD%B7%E5%8F%B2%E4%BB%8B%E7%B4%B9-6.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "template",
+              "altText": "歷史剪影",
+              "template": {
+                "type": "image_carousel",
+                "columns": [
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E7%B4%85%E6%A8%93%E6%AD%B7%E5%8F%B2/%E6%AD%B7%E5%8F%B2%E4%BB%8B%E7%B4%B9-7.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E7%B4%85%E6%A8%93%E6%AD%B7%E5%8F%B2/%E6%AD%B7%E5%8F%B2%E4%BB%8B%E7%B4%B9-8.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E7%B4%85%E6%A8%93%E6%AD%B7%E5%8F%B2/%E6%AD%B7%E5%8F%B2%E4%BB%8B%E7%B4%B9-9.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E7%B4%85%E6%A8%93%E6%AD%B7%E5%8F%B2/%E6%AD%B7%E5%8F%B2%E4%BB%8B%E7%B4%B9-10.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  },
+                  {
+                    "imageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E7%B4%85%E6%A8%93%E6%AD%B7%E5%8F%B2/%E6%AD%B7%E5%8F%B2%E4%BB%8B%E7%B4%B9-11.png",
+                    "action": {
+                      "type": "postback",
+                      "data": "action\u003dbuy\u0026itemid\u003d111"
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520928464,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,76 @@
+{
+  "id": "db6e78ae-adef-4782-aead-717adaabd178",
+  "name": "GuideInfo_repair_overview",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GuideInfo_repair_overview",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "imagemap",
+              "baseUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/repair",
+              "altText": "修復紀要",
+              "baseSize": {
+                "height": 520,
+                "width": 1040
+              },
+              "actions": [
+                {
+                  "type": "message",
+                  "text": "修復紀要影音",
+                  "area": {
+                    "x": 0,
+                    "y": 273,
+                    "width": 303,
+                    "height": 247
+                  }
+                },
+                {
+                  "type": "message",
+                  "text": "修復紀要剪影",
+                  "area": {
+                    "x": 362,
+                    "y": 273,
+                    "width": 303,
+                    "height": 247
+                  }
+                },
+                {
+                  "type": "message",
+                  "text": "修復成果",
+                  "area": {
+                    "x": 707,
+                    "y": 273,
+                    "width": 303,
+                    "height": 247
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520930909,
+  "fallbackIntent": false,
+  "events": []
+}

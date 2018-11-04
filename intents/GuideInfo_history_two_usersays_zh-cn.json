@@ -1,0 +1,20 @@
+[
+  {
+    "id": "4e2bf7d7-d5fb-4ed3-b0da-56fe86ffd7d1",
+    "data": [
+      {
+        "text": "建築",
+        "alias": "second_class",
+        "meta": "@second_class",
+        "userDefined": false
+      },
+      {
+        "text": "構造",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520925734
+  }
+]

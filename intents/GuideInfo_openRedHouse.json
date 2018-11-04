@@ -1,0 +1,40 @@
+{
+  "id": "2f24391d-19c4-4011-8e78-800d953d006d",
+  "name": "GuideInfo_openRedHouse",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GuideInfo_openRedHouse",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "image",
+              "originalContentUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E9%96%8B%E9%A4%A8%E6%99%82%E9%96%93/%E9%96%8B%E9%A4%A8%E6%99%82%E9%96%93-1.png",
+              "previewImageUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/%E7%B4%85%E6%A8%93%E5%B0%8E%E8%A6%BD%E7%94%A8%E5%9C%96%E7%89%87/%E9%96%8B%E9%A4%A8%E6%99%82%E9%96%93/%E9%96%8B%E9%A4%A8%E6%99%82%E9%96%93-1.png"
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1519098269,
+  "fallbackIntent": false,
+  "events": []
+}

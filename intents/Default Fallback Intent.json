@@ -1,0 +1,49 @@
+{
+  "id": "565f50a1-8b5c-41f3-b583-a9e7881eab97",
+  "name": "Default Fallback Intent",
+  "auto": false,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "zh-cn",
+          "speech": []
+        },
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "text",
+              "text": "歡迎使用智能紅樓\n\n請點選下方選單\n\n進一步了解紅樓相關介紹\n\n􀄃􀄋grin􏿿 􀄃􀄋grin􏿿"
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "zh-tw",
+          "speech": [
+            "對不起，我聽不懂你的問題。",
+            "請你再說一遍。",
+            "我怕我聽不懂你的話。",
+            "我對最後的部分還有一些糊塗。",
+            "請再講一次好嗎？"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": []
+}

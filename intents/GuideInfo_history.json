@@ -1,0 +1,71 @@
+{
+  "id": "66ac1a29-6f5d-4e09-9752-baa8c2576995",
+  "name": "GuideInfo_history",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "GuideInfo_history",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "zh-cn",
+          "payload": {
+            "line": {
+              "type": "imagemap",
+              "baseUrl": "https://storage.googleapis.com/redhouse-39b68.appspot.com/newhistory",
+              "altText": "紅樓大事記",
+              "baseSize": {
+                "height": 520,
+                "width": 1040
+              },
+              "actions": [
+                {
+                  "type": "message",
+                  "text": "紅樓歷史",
+                  "area": {
+                    "x": 0,
+                    "y": 273,
+                    "width": 303,
+                    "height": 247
+                  }
+                },
+                {
+                  "type": "message",
+                  "text": "建築構造",
+                  "area": {
+                    "x": 362,
+                    "y": 273,
+                    "width": 303,
+                    "height": 247
+                  }
+                },
+                {
+                  "type": "message",
+                  "text": "歷史剪影",
+                  "area": {
+                    "x": 707,
+                    "y": 273,
+                    "width": 303,
+                    "height": 247
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520930770,
+  "fallbackIntent": false,
+  "events": []
+}
